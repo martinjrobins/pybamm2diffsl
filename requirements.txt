@@ -1,0 +1,5 @@
+pybamm
+click
+requests
+wasmtime
+numpy
